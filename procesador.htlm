@@ -3,14 +3,14 @@
 <title>procesadores</title>
 </head>
 <body>
-Un computador dispone de tres componentes principales para efectuar las tareas
+<p>Un computador dispone de tres componentes principales para efectuar las tareas
 descritas anteriormente:
 1) Unidades de E/S para aceptar información y comunicar los resultados.
 2) Un procesador para procesar la información.
 3) Una memoria para almacenar la información y las instrucciones.
 Es necesario un cuarto componente que conecte entre sí el resto de los componentes:
 un sistema de interconexión que permita mover la información entre
-los tres componentes del computador.
+los tres componentes del computador.</p>
 Resumimos a continuación las tareas que debe realizar cada uno de los componentes
 del computador:
 • Procesador: se encarga de gestionar y controlar las operaciones del computador.
